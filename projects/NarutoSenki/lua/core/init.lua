@@ -1,0 +1,8 @@
+--
+-- Core Configuration
+--
+
+require 'core.audio'
+
+GameMode = require 'core.mode'
+require 'class.AiChar'
